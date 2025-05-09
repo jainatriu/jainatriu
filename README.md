@@ -1,8 +1,5 @@
 ashestown account 
 
-
-
-some people might see me on PonyTown as I use both games at the same time, my PT github has a different username
 .
 
-Hi my name is Jai and I do absolutely nothing except sit around, spectate and only talk when approached
+Hi my name is Jai and I do absolutely nothing on this game unless I'm interacted with or with a friend, I'm either at the bar spectacting whatever people start arguing about or at the ghouls/raiders spawn grinding for items
