@@ -1,7 +1,9 @@
 <p align="center">
 $\color{#a4a4a4}{\textsf{"I call it}}$ <br>
 <p align="center">
-$\color{#851207}{\textsf{"Machine that Lets Me Read People's Minds When I Want To"}}$ <br>
+$\color{#851207}{\textsf{"Machine that Lets Me Read People's Minds}}$ <br>
+<p align="center">
+$\color{#851207}{\textsf{When I Want To"}}$ <br>
 <p align="center">
 $\color{#a4a4a4}{\textsf{or Psychopomp for short."}}$ <br>
 
