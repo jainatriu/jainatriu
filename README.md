@@ -13,6 +13,8 @@ $\color{#a4a4a4}{\textsf{or Psychopomp for short."}}$ <br>
 
   <!-- LINKS -->
 <p align="center">  <a href="https://github.com/freakedoutboy">main account</a>
+  <!-- LINKS -->
+<p align="center">  <a href="https://archipelago.straw.page">strawpage</a>
 
   ㅤㅤㅤㅤㅤ
   ㅤㅤㅤㅤㅤ
