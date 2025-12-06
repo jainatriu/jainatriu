@@ -1,9 +1,9 @@
 <p align="center">
 $\color{#a4a4a4}{\textsf{"I call it}}$ <br>
 <p align="center">
-$\color{#851207}{\textsf{"Machine that Lets Me Read People's Minds}}$ <br>
+$\color{#851207}{\textsf{"Machine that Lets Me Read People's }}$ <br>
 <p align="center">
-$\color{#851207}{\textsf{When I Want To"}}$ <br>
+$\color{#851207}{\textsf{Minds When I Want To"}}$ <br>
 <p align="center">
 $\color{#a4a4a4}{\textsf{or Psychopomp for short."}}$ <br>
 
@@ -21,4 +21,6 @@ $\color{#a4a4a4}{\textsf{or Psychopomp for short."}}$ <br>
   ㅤㅤㅤㅤㅤ
   ㅤㅤㅤㅤㅤ
 <p align="center">
-$\color{#a4a4a4}{\textsf{"I will not allow any more secrets to be kept from me."}}$ <br>
+$\color{#a4a4a4}{\textsf{"I will not allow any more secrets to be}}$ <br>
+<p align="center">
+$\color{#a4a4a4}{\textsf{kept from me."}}$ <br>
