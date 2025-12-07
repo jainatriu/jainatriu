@@ -1,4 +1,6 @@
 <p align="center">
+<img src="https://api.visitorbadge.io/api/visitors?path=jainatriu&label=hammers&labelColor=%23a4a4a4&countColor=%23851207&style=flat-square">
+<p align="center">
 $\color{#a4a4a4}{\textsf{"I call it}}$ <br>
 <p align="center">
 $\color{#851207}{\textsf{"Machine that Lets Me Read People's }}$ <br>
