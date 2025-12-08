@@ -26,3 +26,6 @@ $\color{#a4a4a4}{\textsf{or Psychopomp for short."}}$ <br>
 $\color{#a4a4a4}{\textsf{"I will not allow any more secrets to be}}$ <br>
 <p align="center">
 $\color{#a4a4a4}{\textsf{kept from me."}}$ <br>
+
+<p align="center">
+<img widht=50 heigh=50 img src="https://file.garden/aOWSpRjTKyHZp9BV/psychopomp-games.gif">
