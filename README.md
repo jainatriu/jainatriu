@@ -12,7 +12,7 @@ $\color{#1b9130}{\textsf{Bring me up again}}$ <br>
   ㅤㅤ<p align="center">
 $\color{#57911b}{\textsf{+}}$ <br>
     
-    ㅤㅤ<p align="center">
+<p align="center">
 <img widht=5 heigh=5 img src="https://file.garden/aOWSpRjTKyHZp9BV/Untitled601_20260123005730.png">ㅤㅤ
   <!-- LINKS -->
 <p align="center">  <a href="https://github.com/freakedoutboy">main account</a>
