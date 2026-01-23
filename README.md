@@ -1,20 +1,20 @@
 <p align="center">
-<img src="https://api.visitorbadge.io/api/visitors?path=jainatriu&label=hammers&labelColor=%23a4a4a4&countColor=%23851207&style=flat-square">
+<img src="https://api.visitorbadge.io/api/visitors?path=jainatriu&label=feathers&labelColor=%23b1c886&countColor=%23ffffff">
 <p align="center">
-$\color{#a4a4a4}{\textsf{"I call it}}$ <br>
-<p align="center">
-$\color{#851207}{\textsf{"Machine that Lets Me Read People's }}$ <br>
-<p align="center">
-$\color{#851207}{\textsf{Minds When I Want To"}}$ <br>
-<p align="center">
-$\color{#a4a4a4}{\textsf{or Psychopomp for short."}}$ <br>
+
 
 ㅤㅤㅤㅤㅤ
-ㅤㅤㅤㅤㅤ
-ㅤㅤㅤㅤㅤ
+ㅤㅤㅤㅤㅤ<p align="center">
+$\color{#1b9130}{\textsf{Bring me up again}}$ <br>
 <p align="center">
-<img widht=50 heigh=50 img src="https://file.garden/aOWSpRjTKyHZp9BV/Untitled480_20251206194009.png">
+<img widht=5 heigh=5 img src="https://file.garden/aOWSpRjTKyHZp9BV/Untitled601_20260123005730.png">ㅤㅤ
+  ㅤㅤ<p align="center">
+$\color{#57911b}{\textsf{+}}$ <br>
 
+  ㅤㅤㅤㅤㅤ
+  ㅤ
+<p align="center">
+<img widht=20 heigh=20 img src="https://file.garden/aOWSpRjTKyHZp9BV/Untitled596_20260123005106.png">
   <!-- LINKS -->
 <p align="center">  <a href="https://github.com/freakedoutboy">main account</a>
     <!-- LINKS -->
@@ -22,12 +22,3 @@ $\color{#a4a4a4}{\textsf{or Psychopomp for short."}}$ <br>
   <!-- LINKS -->
 <p align="center">  <a href="https://archipelago.straw.page">strawpage</a>
 
-  ㅤㅤㅤㅤㅤ
-  ㅤㅤㅤㅤㅤ
-<p align="center">
-$\color{#a4a4a4}{\textsf{"I will not allow any more secrets to be}}$ <br>
-<p align="center">
-$\color{#a4a4a4}{\textsf{kept from me."}}$ <br>
-
-<p align="center">
-<img widht=50 heigh=50 img src="https://file.garden/aOWSpRjTKyHZp9BV/psychopomp-games.gif">
