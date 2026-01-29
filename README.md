@@ -1,19 +1,15 @@
 <p align="center">
-<img src="https://api.visitorbadge.io/api/visitors?path=jainatriu&label=feathers&labelColor=%23b1c886&countColor=%23ffffff">
+<img src="https://api.visitorbadge.io/api/visitors?path=jainatriu&label=lick&labelColor=%236d9100&countColor=%23916b00">
 <p align="center">
 
 
 ㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤ<p align="center">
-$\color{#1b9130}{\textsf{Bring me up again}}$ <br>
+$\color{#916b00}{\textsf{why are you off center}}$ <br>
 <p align="center">
-<p align="center">
-<img widht=20 heigh=20 img src="https://file.garden/aOWSpRjTKyHZp9BV/Untitled596_20260123005106.png">ㅤㅤ
-  ㅤㅤ<p align="center">
-$\color{#57911b}{\textsf{+}}$ <br>
+<img widht=20 heigh=20 img src="https://file.garden/aOWSpRjTKyHZp9BV/Untitled606_20260129124015.png">ㅤㅤ
     
-<p align="center">
-<img widht=5 heigh=5 img src="https://file.garden/aOWSpRjTKyHZp9BV/Untitled601_20260123005730.png">ㅤㅤ
+ㅤ
   <!-- LINKS -->
 <p align="center">  <a href="https://github.com/freakedoutboy">main account</a>
     <!-- LINKS -->
