@@ -5,7 +5,7 @@
 
 ㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤ<p align="center">
-$\color{#916b00}{\textsf{when I walk the girls all die}}$ <br>
+$\color{#916b00}{\textsf{this grand prize is mine and I'll be damned if I don't get it, bitch}}$ <br>
 <p align="center">
 <img widht=20 heigh=20 img src="https://file.garden/aOWSpRjTKyHZp9BV/Untitled612_20260129142834.png">ㅤㅤ
     
