@@ -17,3 +17,8 @@ $\color{#916b00}{\textsf{You're my dopamine}}$ <br>
   <!-- LINKS -->
 <p align="center">  <a href="https://archipelago.straw.page">strawpage</a>
 
+ㅤㅤㅤㅤㅤ
+ㅤㅤㅤㅤㅤ<p align="center">
+$\color{#916b00}{\textsf{My dni list are mainly problematic people, bigots and proshippers/darkshippers, }}$ <br>
+ㅤㅤㅤㅤㅤ<p align="center">
+$\color{#916b00}{\textsf{I don't check people's profiles so block me if you're any of these please!}}$ <br>
