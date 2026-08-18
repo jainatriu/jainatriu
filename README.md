@@ -13,6 +13,6 @@ $\color{#916b00}{\textsf{BITTEN TWICE}}$ <br>
 $\color{#916b00}{\textsf{My dni list are mainly problematic people, bigots and proshippers/darkshippers, }}$ <br>
 $\color{#916b00}{\textsf{I don't check people's profiles so block me if you're any of these please!}}$ <br>
  <p align="right">
-     $\color{#0c6544}{\textsf{both ocs are mine}}$ 
+     
 ㅤ
 
